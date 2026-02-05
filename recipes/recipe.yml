@@ -27,6 +27,7 @@ modules:
         - libvirt
         - papers
         - screen
+        - sushi
         - tailscale
         - telnet
         - virt-manager
